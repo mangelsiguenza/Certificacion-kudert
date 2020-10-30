@@ -1,0 +1,5 @@
+C:\Users\angel\Documents\Visual Studio 2012\Projects\Certificacion_Kudert\Certificacion_Kudert\bin\Debug\Certificacion_Kudert.exe.config
+C:\Users\angel\Documents\Visual Studio 2012\Projects\Certificacion_Kudert\Certificacion_Kudert\obj\Debug\Certificacion_Kudert.exe
+C:\Users\angel\Documents\Visual Studio 2012\Projects\Certificacion_Kudert\Certificacion_Kudert\obj\Debug\Certificacion_Kudert.pdb
+C:\Users\angel\Documents\Visual Studio 2012\Projects\Certificacion_Kudert\Certificacion_Kudert\bin\Debug\Certificacion_Kudert.exe
+C:\Users\angel\Documents\Visual Studio 2012\Projects\Certificacion_Kudert\Certificacion_Kudert\bin\Debug\Certificacion_Kudert.pdb

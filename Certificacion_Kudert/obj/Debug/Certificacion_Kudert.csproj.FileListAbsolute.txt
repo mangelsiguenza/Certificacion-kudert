@@ -1,0 +1,6 @@
+c:\users\angel\documents\visual studio 2012\Projects\Certificacion_Kudert\Certificacion_Kudert\bin\Debug\Certificacion_Kudert.exe.config
+c:\users\angel\documents\visual studio 2012\Projects\Certificacion_Kudert\Certificacion_Kudert\bin\Debug\Certificacion_Kudert.exe
+c:\users\angel\documents\visual studio 2012\Projects\Certificacion_Kudert\Certificacion_Kudert\bin\Debug\Certificacion_Kudert.pdb
+c:\users\angel\documents\visual studio 2012\Projects\Certificacion_Kudert\Certificacion_Kudert\obj\Debug\Certificacion_Kudert.csprojResolveAssemblyReference.cache
+c:\users\angel\documents\visual studio 2012\Projects\Certificacion_Kudert\Certificacion_Kudert\obj\Debug\Certificacion_Kudert.exe
+c:\users\angel\documents\visual studio 2012\Projects\Certificacion_Kudert\Certificacion_Kudert\obj\Debug\Certificacion_Kudert.pdb
